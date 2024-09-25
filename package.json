@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nazanin-Keramat/Golestan-responsive-Header/issues"
   },
-  "homepage": "https://github.com/Nazanin-Keramat/Golestan-responsive-Header#readme"
+  "homepage": "https://github.com/Nazanin-Keramat/Golestan-responsive-Header#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
 }
